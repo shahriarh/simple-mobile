@@ -1,0 +1,45 @@
+body {
+	margin-top: 60px;
+}
+
+.nav-sidebar {
+    border-left: 1px solid #e4e4e4;
+    margin-left: 5px;
+}
+
+.nav-sidebar>li>a {
+	padding: 0 10px !important;
+}
+
+.product-price {
+	margin-bottom: 30px;
+}
+
+.margin-bottom-30 {
+	margin-bottom: 30px;
+}
+.btn-outline {
+    background: transparent;
+    border: 1px solid currentColor;
+}
+.btn-outline:hover {
+    box-shadow: 2px 2px 5px;
+    border: 1px solid;
+    text-decoration: none;
+}
+
+#cart-btn-top {
+    font-size: 30px;
+    padding: 8px 20px;
+    position: relative;
+}
+#cart-btn-top .badge {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    background: #FFC107;
+    color: white;
+}
+tr.align-middle td {
+	vertical-align: middle !important;
+}
